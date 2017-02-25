@@ -4,3 +4,4 @@
 
 # form
 1. <a href="https://pzzzzz.github.io/IFEbaidu2017/form/test1/">form1</a>
+2. <a href="https://pzzzzz.github.io/IFEbaidu2017/form/test2/">form2</a>
