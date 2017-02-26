@@ -17,6 +17,7 @@ for(var i = 0;i<radios.length;i++){
     radios[i].onclick = function(){
         if(this.value == 'in'){
             render1();
+            data.list2 = bj;
             render3();
         }else{
             render2();
