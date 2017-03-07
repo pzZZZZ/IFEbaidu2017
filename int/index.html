@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style type="text/css">
+        .box{
+            text-align: center;
+        }
+        .color{
+            animation: myfirst 5s;
+        }
+        @keyframes myfirst
+        {
+        from {background: #fff;}
+        to {background: yellow;}
+        }
+    </style>
+</head>
+<body>
+    <div class="box"><img src="https://avatars1.githubusercontent.com/u/24590331?v=3&s=460" alt=""></div>
+<script type="text/javascript">
+var oDiv = document.getElementsByClassName('box')[0];
+oDiv.onmouseover = function(){
+    this.className = this.className+' '+'color';
+
+}
+oDiv.onmouseout = function(){
+    this.className = 'box'
+}
+
+ 
+</script>
+</body>
+</html>
