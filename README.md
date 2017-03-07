@@ -8,5 +8,6 @@
 3. <a href="https://pzzzzz.github.io/IFEbaidu2017/form/test3/">form3</a>
 4. <a href="https://pzzzzz.github.io/IFEbaidu2017/form/test3.1/">form3.1</a>
 
-# Vue
+# 脏检查,虚拟DOM,数据追踪
 1. <a href="https://pzzzzz.github.io/IFEbaidu2017/hiJs/databind/">动态数据绑定</a>
+2. <a href="https://pzzzzz.github.io/IFEbaidu2017/hiJs/databind2/">动态数据绑定2未完成</a>
